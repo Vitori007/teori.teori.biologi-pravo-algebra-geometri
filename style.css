@@ -1,1 +1,11 @@
-
+header {
+  background-color: #0000e6;
+}
+header a{
+   color: white;
+   text-decoration:none;
+}
+nav{
+   display:flex;
+   justify-content: space-around;
+}
