@@ -13,7 +13,8 @@ nav{
    justify-content: space-around;
 }
 article {
-    width:300px;
+    margin-top:15px;
+    width:200px;
     background-color: #0000e6;
     padding:15px;
     display:flex;
