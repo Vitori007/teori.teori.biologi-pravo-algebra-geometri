@@ -11,3 +11,10 @@ nav{
    display:flex;
    justify-content: space-around;
 }
+div{
+    background-color: #0000e6;
+    padding:15px;
+    display:flex;
+    justify-content:flex-start;
+    position: fixed;
+}
