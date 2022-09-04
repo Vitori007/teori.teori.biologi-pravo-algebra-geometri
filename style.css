@@ -17,10 +17,13 @@ nav{
 }
 article {
     margin-top:15px;
-    width:120px;
+    width:80px;
     background-color: #0000e6;
     padding:15px;
     display:flex;
     justify-content:flex-start;
     position: fixed;
+}
+section{
+  margin:20px 100px 20px 100px;
 }
