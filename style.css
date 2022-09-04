@@ -6,10 +6,15 @@ header {
   padding:20px;
   margin:0px;
 }
-header a, article a{
+header a,{
    color: white;
    text-decoration:none;
    font-size:20px;
+}
+article a{
+   color: white;
+   text-decoration:none;
+   font-size:15px;
 }
 nav{
    display:flex;
