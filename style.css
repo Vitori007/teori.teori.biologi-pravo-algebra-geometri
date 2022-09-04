@@ -3,7 +3,7 @@ header {
   padding:20px;
   margin:0px;
 }
-header a{
+header a, div a{
    color: white;
    text-decoration:none;
 }
