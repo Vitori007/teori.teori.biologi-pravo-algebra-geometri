@@ -29,6 +29,9 @@ article {
     justify-content:flex-start;
     position: fixed;
 }
-section{
+main {
   margin:30px 100px 30px 100px;
+}
+.rivni{
+    border:solid 5px  #990000;
 }
