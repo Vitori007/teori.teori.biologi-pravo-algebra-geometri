@@ -34,7 +34,9 @@ main {
 }
 .rivni{
     border:solid 5px  #990000;
+    border-radius:30%;
 }
 .algo h4{
-    text-decoration: right;
+    text-align: right;
 }
+
