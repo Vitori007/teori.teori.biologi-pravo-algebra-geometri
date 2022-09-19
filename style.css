@@ -29,6 +29,7 @@ nav{
     justify-content:flex-start;
     position: fixed;
     left:0px;
+    top:0px;
 }
 main {
   margin:30px 100px 30px 100px;
