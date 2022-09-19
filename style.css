@@ -46,12 +46,10 @@ main {
 ul {
   list-style:url("https://w7.pngwing.com/pngs/973/366/png-transparent-check-check-mark-computer-icons-green-tick-miscellaneous-angle-leaf.png" width="20px" height="20px");
 }
-.1rozdrod{
+.rozdrod{
       display:flex;
-      justify-content:flex-start;
+      justify-content:space-between;
 }
 .2rozdrod{
-      display:flex;
-      justify-content:flex-end;
-      width:400px;
+      width:50%;
 }
