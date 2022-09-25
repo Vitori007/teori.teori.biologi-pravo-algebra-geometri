@@ -38,7 +38,7 @@ main {
 .rivni{
     border:solid 5px  #990000;
     border-radius:15px;
-    box-shadow:5px 5x  #99bbff;
+    box-shadow:5px 5px 5px 5px #99bbff;
     background-color:white;
 }
 .algo h4{
