@@ -3,7 +3,7 @@ body{
   background-image:url('http://bgfons.com/upload/paper_grid_PNG5405.png');
 }
 header {
-  background-color: #0000e6;
+  background: linear-gradient(to bottom right, #000099 30%, #ccffff 100%);
   padding:20px;
   margin:0px;
 }
