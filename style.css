@@ -28,7 +28,7 @@ nav{
 }
 .menu {
     width:70px;
-    background: linear-gradient(to right,#000099 0%, #ccffff 100%); at
+    background: linear-gradient(to right,#000099 0%, #ccffff 100%);
     padding:10px;
     display:flex;
     flex-direction: column;
