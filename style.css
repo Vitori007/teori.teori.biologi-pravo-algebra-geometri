@@ -50,6 +50,7 @@ main {
     border-radius:15px;
     box-shadow:5px 5px 5px 5px #99bbff;
     background-color:white;
+    padding:5px;
 }
 .algo h4{
     text-align: right;
