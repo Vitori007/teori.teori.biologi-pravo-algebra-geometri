@@ -7,7 +7,7 @@ header {
   padding:20px;
   margin:0px;
 }
-header a{
+header a, footer a{
    color: white;
    text-decoration:none;
    font-size:20px;
@@ -69,4 +69,9 @@ ul {
 }
 .rozdrode{
       width:50%;
+}
+footer{
+  margin:0px;
+  padding:20px;
+  background: linear-gradient(to top left, #000099 30%, #ccffff 100%);
 }
